@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Makes netherrack darker.",
+    "pack_format": 34,
+    "supported_formats": [6, 34]
+  }
+}
